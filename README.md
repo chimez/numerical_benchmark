@@ -7,7 +7,7 @@
 
 ## problem set
 
-<img src="https://render.githubusercontent.com/render/math?math=c_i = \begin{cases} a_i^2 + b_i^2 + a_i b_i, \quad i=0 \\ a_i^2 + b_{i-1}^2 + a_i b_i + a_i + b_i, \quad \mathrm{otherwise}.\end{cases}">
+<img src="https://render.githubusercontent.com/render/math?math=c_i = \begin{cases} a_i^2 %2B b_i^2 %2B a_i b_i, \quad i=0 \\ a_i^2 %2B b_{i-1}^2 %2B a_i b_i %2B a_i %2B b_i, \quad \mathrm{otherwise}.\end{cases}">
 
 ## data
                         
